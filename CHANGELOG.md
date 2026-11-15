@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aifivem/ai-cityhall/compare/v0.1.5...v0.1.6) (2026-11-15)
+
+
+### Miscellaneous Chores
+
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([c8184a2](https://github.com/aifivem/ai-cityhall/commit/c8184a208520e05c1d79dab967f5b03a32f2a349))
+
 ## [0.1.5](https://github.com/aifivem/ai-cityhall/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
