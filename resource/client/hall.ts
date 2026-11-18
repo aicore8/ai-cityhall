@@ -5,8 +5,8 @@ import {
   menu,
   notify,
   Points,
-} from "@aifivem/lib/client";
-import { record, RecordObjects } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { record, RecordObjects } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS, readHall } from "common/hall";
 

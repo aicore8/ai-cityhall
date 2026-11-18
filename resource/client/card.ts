@@ -6,11 +6,11 @@ import {
   pedHeadshot,
   player,
   playerPed,
-} from "@aifivem/lib/client";
-import { readId, readInt, record } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { readId, readInt, record } from "@aicore8/lib/shared";
 import { EVENTS, toIdCard, type IdCard } from "common/hall";
 import type { NuiMessage } from "common/nui";
-import { NUI_LAYER } from "@aifivem/shared";
+import { NUI_LAYER } from "@aicore8/shared";
 
 const send = (message: NuiMessage): void => SendNUIMessage(message);
 

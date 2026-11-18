@@ -7,7 +7,7 @@ import {
   readPlacePed,
   record,
   str,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** ai-cityhall's contracts and panel content. No natives. */
 
