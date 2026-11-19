@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7](https://github.com/aicore8/ai-cityhall/compare/v0.1.6...v0.1.7) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([3c3e117](https://github.com/aicore8/ai-cityhall/commit/3c3e1174ae160a2c9c6a013e15019c5abc78a9ca))
+
 ## [0.1.6](https://github.com/aicore8/ai-cityhall/compare/v0.1.5...v0.1.6) (2026-11-15)
 
 
